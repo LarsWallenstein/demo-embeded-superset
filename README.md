@@ -1,5 +1,7 @@
 # WebApp Demo with embeded Superset Dashboard
 
+![plot](webapp.png)
+
 ## Backend (Flask)
 ### app.py
 Для получения встраивания дашбордов из суперсета необходимо делать три типа запросов к его API
